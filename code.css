@@ -1,0 +1,14 @@
+.container{
+    background-image: url("https://e0.pxfuel.com/wallpapers/971/586/desktop-wallpaper-binary-code-binary-number-standing-green-pattern-background-green-binary.jpg");
+    height: 100vh;
+    background-size: cover;
+
+
+}
+.message{
+    background-color: #00000080;
+    color: white;
+    border: 5px solid #48ee59;
+    text-align: center;
+    padding: 45px;
+}
